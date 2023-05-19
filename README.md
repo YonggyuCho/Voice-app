@@ -12,4 +12,5 @@
 # Main
 <img width="338" alt="Main" src="https://github.com/YonggyuCho/Voice-app/assets/127103253/f923df80-5448-45e0-b3b3-dc8e2053c34a">
 
+# 날씨기능
 <img width="309" alt="weather(GPS)" src="https://github.com/YonggyuCho/Voice-app/assets/127103253/be28fe88-ec20-420f-8706-f037c6025290">
